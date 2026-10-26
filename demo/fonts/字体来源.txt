@@ -1,0 +1,7 @@
+字体：Noto Serif CJK SC Regular，版本 2.003
+版权：© 2017-2024 Adobe (http://www.adobe.com/).
+本包保留原始字体文件，未作修改。
+官方项目：https://github.com/notofonts/noto-cjk
+许可证原文：https://raw.githubusercontent.com/notofonts/noto-cjk/main/Serif/LICENSE
+授权：SIL Open Font License 1.1，完整文本见 OFL.txt。
+字体文件自身的 name 表同样包含版权及许可证说明。

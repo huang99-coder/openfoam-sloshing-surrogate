@@ -1,0 +1,17 @@
+﻿validation_id,pair_id,folder,is_double_overtake,fill_level,fill_pct,fill_y_level_m,t_change,peak_gx,total_time,design_role,schedule_version,mpi_ranks
+IV01S,IV01,OT_t175s_45p,0,0.4500,45.0,-0.07075880,1.7500,5.63977394,16.500000,lower-T/lower-fill off-grid,OT-IV-reference-interp-v2-fixed24,24
+IV01D,IV01,OT_double_t175s_45p,1,0.4500,45.0,-0.07075880,1.7500,5.63977394,23.250000,lower-T/lower-fill off-grid,OT-IV-reference-interp-v2-fixed24,24
+IV02S,IV02,OT_t35s_45p,0,0.4500,45.0,-0.07075880,3.5000,1.40994349,21.650000,upper-T/lower-fill off-grid,OT-IV-reference-interp-v2-fixed24,24
+IV02D,IV02,OT_double_t35s_45p,1,0.4500,45.0,-0.07075880,3.5000,1.40994349,31.400000,upper-T/lower-fill off-grid,OT-IV-reference-interp-v2-fixed24,24
+IV03S,IV03,OT_t225s_55p,0,0.5500,55.0,0.07075880,2.2500,3.41171510,17.500000,interior off-grid,OT-IV-reference-interp-v2-fixed24,24
+IV03D,IV03,OT_double_t225s_55p,1,0.5500,55.0,0.07075880,2.2500,3.41171510,25.700000,interior off-grid,OT-IV-reference-interp-v2-fixed24,24
+IV04S,IV04,OT_t275s_55p,0,0.5500,55.0,0.07075880,2.7500,2.28387540,18.650000,interior off-grid,OT-IV-reference-interp-v2-fixed24,24
+IV04D,IV04,OT_double_t275s_55p,1,0.5500,55.0,0.07075880,2.7500,2.28387540,28.050000,interior off-grid,OT-IV-reference-interp-v2-fixed24,24
+IV05S,IV05,OT_t225s_65p,0,0.6500,65.0,0.21409420,2.2500,3.41171510,17.500000,interior off-grid,OT-IV-reference-interp-v2-fixed24,24
+IV05D,IV05,OT_double_t225s_65p,1,0.6500,65.0,0.21409420,2.2500,3.41171510,25.700000,interior off-grid,OT-IV-reference-interp-v2-fixed24,24
+IV06S,IV06,OT_t275s_65p,0,0.6500,65.0,0.21409420,2.7500,2.28387540,18.650000,interior off-grid,OT-IV-reference-interp-v2-fixed24,24
+IV06D,IV06,OT_double_t275s_65p,1,0.6500,65.0,0.21409420,2.7500,2.28387540,28.050000,interior off-grid,OT-IV-reference-interp-v2-fixed24,24
+IV07S,IV07,OT_t175s_75p,0,0.7500,75.0,0.36357548,1.7500,5.63977394,16.500000,high-fill/lower-T stress,OT-IV-reference-interp-v2-fixed24,24
+IV07D,IV07,OT_double_t175s_75p,1,0.7500,75.0,0.36357548,1.7500,5.63977394,23.250000,high-fill/lower-T stress,OT-IV-reference-interp-v2-fixed24,24
+IV08S,IV08,OT_t35s_75p,0,0.7500,75.0,0.36357548,3.5000,1.40994349,21.650000,high-fill/upper-T stress,OT-IV-reference-interp-v2-fixed24,24
+IV08D,IV08,OT_double_t35s_75p,1,0.7500,75.0,0.36357548,3.5000,1.40994349,31.400000,high-fill/upper-T stress,OT-IV-reference-interp-v2-fixed24,24
